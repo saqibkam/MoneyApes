@@ -11,14 +11,14 @@
 // MySQL Hostname
 $sql_db_host = "localhost";
 // MySQL Database User
-$sql_db_user = "u1xcvrmw6qmfq";
+$sql_db_user = "root";
 // MySQL Database Password
-$sql_db_pass = "b8eblygyc63p";
+$sql_db_pass = "";
 // MySQL Database Name
-$sql_db_name = "dbke9cb1f1gned";
+$sql_db_name = "moneyapes";
 
 // Site URL
-$site_url = "https://moneyapes.com/social"; // e.g (http://example.com)
+$site_url = "http://localhost:8888/MoneyApes"; // e.g (http://example.com)
 
 $auto_redirect = true;
 
