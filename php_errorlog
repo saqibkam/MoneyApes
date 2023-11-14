@@ -1,0 +1,4 @@
+[14-Oct-2023 05:37:06 CST6CDT] PHP Fatal error:  Uncaught Error: Failed opening required 'assets/init.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/moneyapes.com/public_html/social/requests.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/moneyapes.com/public_html/social/requests.php on line 2
